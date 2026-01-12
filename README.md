@@ -19,6 +19,10 @@ The goal of this project is to create a simple, emotionally supportive space whe
 - AsyncStorage  
 - JavaScript
 
+##Presentation Video
+
+https://youtu.be/65jRJC_xLlw
+
 ## Documentation PDF Slides
 
 AURAflow An AI-Guided Journaling Experience.pdf ( also linked here in github files if doesn't work)
