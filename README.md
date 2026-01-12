@@ -21,3 +21,5 @@ The goal of this project is to create a simple, emotionally supportive space whe
 
 ## Documentation PDF Slides
 
+AURAflow An AI-Guided Journaling Experience.pdf
+
